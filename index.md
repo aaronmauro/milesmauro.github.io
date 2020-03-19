@@ -3,7 +3,7 @@
 
 <img src="https://media.comicbook.com/2019/11/star-wars-rise-skywalker-empire-cover-kylo-knights-of-ren-1197081-640x320.jpeg">
 
-<h1>Star Wars:FIRST QUIZ!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</h1>
+<h1>Star Wars: FIRST QUIZ!!!</h1>
 
 <form action="#">
   
@@ -21,15 +21,38 @@
   <hr>
   
   <h2>Question 2</h2>
-  <input type="checkbox" name="quesion2">
-  <label for="question2"></label><br>
+  <h3>Which Rebel (from Star Wars Rebels) was blinded?</h3>
+  <input type="checkbox" name="quesion2a">
+  <label for="question2a">Ezra</label><br>
+  <input type="checkbox" name="quesion2b">
+  <label for="question2b">Sabine</label><br>
+  <input type="checkbox" name="quesion2c">
+  <label for="question2c">Hera</label><br>
+  <input type="checkbox" name="quesion2d">
+  <label for="question2d">Kanan</label><br>
+  <input type="checkbox" name="quesion2e">
+  <label for="question2e">Zeb</label><br>
   
   <h2>Question 3</h2>
-  <input type="checkbox" name="quesion3">
-  <label for="question3"></label><br>
+  <h3>Where does Mace Windu live?</h3>
+  <input type="checkbox" name="quesion3a">
+  <label for="question3a">Tatooine</label><br>
+  <input type="checkbox" name="quesion3b">
+  <label for="question3b">Mandalore</label><br>
+  <input type="checkbox" name="quesion3c">
+  <label for="question3c">Mustafar</label><br>
+  <input type="checkbox" name="quesion3d">
+  <label for="question3d">Haruun Kal</label><br>
   
   <h2>Question 4</h2>
-  <input type="checkbox" name="quesion4">
-  <label for="question4"></label><br>
+  <h3>Where does the Grand Inquisitor die?</h3>
+  <input type="checkbox" name="quesion3a">
+  <label for="question3a">Hoth</label><br>
+  <input type="checkbox" name="quesion3b">
+  <label for="question3b">Jakku</label><br>
+  <input type="checkbox" name="quesion3c">
+  <label for="question3c">Mustafar</label><br>
+  <input type="checkbox" name="quesion3d">
+  <label for="question3d">Stygeon Prime</label><br>
   
 </form>
