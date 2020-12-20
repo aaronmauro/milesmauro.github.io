@@ -1,6 +1,14 @@
 # TOP 10 LISTS ALL GAMERS SHOULD SEE IF THEY THINK THEY ARE GAMERS 
 ## SO GAMERS ONLY!
 
+<nav>
+  <ul style="display:inline-block;">
+    <a href="/"><li>Home</li></a>
+    <a href="/starwarsstuff"><li>Star Wars Stuff</li></a>
+    <a href="/toptens"><li>TOP 10 LISTS ALL GAMERS SHOULD SEE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</li></a>
+</ul>
+</nav>
+
 ### TOP 10 MINECRAFT MAPS FOR SURVIVAL EXPERTS!
 1. Pirate Adventure: Hop in a boat and prepare for a ride as you sail around, while finding dungeons, volcanoes, secret bases and temples! Then fight the evil Captain Silvertooth in the ULTIAMATE BATTLE!
 2. Adventurer's Dream: Noxcrew is an amazing Marketplace creator, famous for their epic maps. Now find a new adventure. Set on a huge floating island, rid the land of it's evil and summon the dragon!
