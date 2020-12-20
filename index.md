@@ -2,9 +2,9 @@
 
 <nav>
   <ul style="display:inline-block;">
-    <a href="milesmauro.com"><li>Home</li></a>
-    <a href="milesmauro.com/starwarsstuff"><li>Star Wars Stuff</li></a>
-    <a href="milesmauro.com/toptens"><li>TOP 10 LISTS ALL GAMERS SHOULD SEE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</li></a>
+    <a href="/"><li>Home</li></a>
+    <a href="/starwarsstuff"><li>Star Wars Stuff</li></a>
+    <a href="/toptens"><li>TOP 10 LISTS ALL GAMERS SHOULD SEE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</li></a>
 </ul>
 </nav>
 
