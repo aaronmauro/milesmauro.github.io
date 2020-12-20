@@ -1,4 +1,11 @@
 <h1>Star Wars Trivia &amp; Tips!</h1>
+<nav>
+  <ul style="display:inline-block;">
+    <a href="/"><li>Home</li></a>
+    <a href="/starwarsstuff"><li>Star Wars Stuff</li></a>
+    <a href="/toptens"><li>TOP 10 LISTS ALL GAMERS SHOULD SEE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</li></a>
+</ul>
+</nav>
 <p>this is my website! come to this weird place to find lots of facts about star wars. so you think kylo ren (ben solo) was intresting? CHECK OUT THIS!</p>
 
 <img src="https://media.comicbook.com/2019/11/star-wars-rise-skywalker-empire-cover-kylo-knights-of-ren-1197081-640x320.jpeg">
